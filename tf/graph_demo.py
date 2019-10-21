@@ -26,3 +26,6 @@ get_next = iter.get_next()
 with tf.Session() as sess:
     print(sess.run(get_next))  # [0 1 2 3]
     print(sess.run(get_next))  # [4 5]
+
+a = [1, 2, 3]
+print(a*2)
