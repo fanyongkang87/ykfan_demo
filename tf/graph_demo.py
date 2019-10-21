@@ -32,3 +32,5 @@ print(a*2)
 
 a = 'test'
 print(a.encode('utf-8'))
+
+print('hello world')
