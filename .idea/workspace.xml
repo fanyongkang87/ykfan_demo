@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c7795a5-dfe1-4642-9b49-62c5a769420e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tf/graph_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/tf/graph_demo.py" afterDir="false" />
     </list>
@@ -87,7 +86,7 @@
       <updated>1554261107394</updated>
       <workItem from="1554261108625" duration="1818000" />
       <workItem from="1555297231632" duration="2277000" />
-      <workItem from="1571648249062" duration="42000" />
+      <workItem from="1571648249062" duration="142000" />
     </task>
     <servers />
   </component>
@@ -106,6 +105,6 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ykfan_demo$graph_demo.coverage" NAME="graph_demo Coverage Results" MODIFIED="1571648291967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf" />
+    <SUITE FILE_PATH="coverage/ykfan_demo$graph_demo.coverage" NAME="graph_demo Coverage Results" MODIFIED="1571648435586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tf" />
   </component>
 </project>
