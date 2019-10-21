@@ -29,3 +29,10 @@ with tf.Session() as sess:
 
 a = [1, 2, 3]
 print(a*2)
+
+a = 'test'
+print(a.encode('utf-8'))
+
+print('hello world')
+
+print('merge more code')
